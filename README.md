@@ -17,3 +17,11 @@ This is a Java console application that compares two birthdays and determines wh
 
 * Friendly and informative console output
 
+# 🛠️ Technologies Used
+
+* Java (console-based)
+
+* Scanner for user input
+
+* if/else logic and arithmetic for date comparisons
+
